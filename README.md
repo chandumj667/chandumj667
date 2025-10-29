@@ -1,11 +1,4 @@
-```
-{
-    "apple":"abc",
-    "apple":"abc",
-    "apple":"abc",
-    "apple":"abc"
-}
-```
+
 # 💫 About Me:
 🔭 I’m a recent Graduate<br>👯 I’m looking to collaborate on Web Development and Software Engineering<br>🌱 I’m currently learning the MERN stack<br>💬 Ask me about Web Development and DSA<br>
 
